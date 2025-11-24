@@ -1,2 +1,4 @@
 /filetransfer
-/readpdf_tool
+/readpdf_tool/modules*
+/readpdf_tool/_ref
+/readpdf_tool/_keywords.txt

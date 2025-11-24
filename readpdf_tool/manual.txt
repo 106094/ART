@@ -1,0 +1,5 @@
+1. execute readpdf_search_tools.exe (First time it will take more time to extract the modules)
+2. Input the pdf files path after the cmd windows pop up the line.
+3. It will open html file for search pdf content after finished
+4. You may change the keywords in keywords.txt for personalized settings.
+2025/11/21 shuningyu with Grok

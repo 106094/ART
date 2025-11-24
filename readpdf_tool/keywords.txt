@@ -1,0 +1,15 @@
+Visual
+Exposure
+Lens Focus
+Save
+Tools
+Settings
+Current robot pose:{Value}
+Not in the list
+Test Area
+Device Control System Version
+Error
+BT Sniffer
+Fixture
+Offline
+Google
